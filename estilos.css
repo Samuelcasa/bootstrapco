@@ -1,0 +1,21 @@
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,240,253,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+
+.bg{
+    border-radius: 15px;
+    background-image: url(img/bg.jpg);
+    background-position: center center;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.container{
+    margin: 50px;
+}
+
+
